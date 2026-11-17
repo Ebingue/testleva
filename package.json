@@ -1,0 +1,10 @@
+{
+  "name": "portfolio-dr-bationo-kegnama-valerie",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Portfolio professionnel 2026 - Dr BATIONO K\u00e9gnama Val\u00e9rie (Compatible Vercel)",
+  "scripts": {
+    "build": "node scripts/verify-build.mjs",
+    "verify": "node scripts/verify-build.mjs"
+  }
+}
